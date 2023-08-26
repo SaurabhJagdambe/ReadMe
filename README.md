@@ -1,7 +1,7 @@
 <img width='400' align="center" src="https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif" >
 <h1 align="center">Hi 👋, I'm Saurabh Jagdambe</h1>
 <h3 align="center">I am Currently Learning and {working} Web Development</h3>
-<img width="400' align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" >
+<img width="300' align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhjagdambe&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhjagdambe" /> </p>
 
