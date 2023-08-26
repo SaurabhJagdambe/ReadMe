@@ -1,4 +1,3 @@
-<img align="center" src="https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif" >
   ![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif")
 <h1 align="center">Hi 👋, I'm Saurabh Jagdambe</h1>
 <h3 align="center">I am Currently Learning and {working} Web Development</h3>
