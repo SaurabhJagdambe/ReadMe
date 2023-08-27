@@ -1,4 +1,5 @@
   ![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif")
+  <p align="left"> <img src="https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif" & style=flat" alt="saurabhjagdambe" /> </p>
 <h1 align="center">Hi 👋, I'm Saurabh Jagdambe</h1>
 <h3 align="center">I am Currently Learning and {working} Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" >
